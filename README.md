@@ -16,7 +16,7 @@ This readme is created as an example for a BDA course.
 ### ABOUT
 <!-- Add link to your picture -->
 
-![alt text](https://raw.githubusercontent.com/krvishwesh54/Kumar-Vishwesh/main/images/profile.jpg)
+![alt text](https://raw.githubusercontent.com/krvishwesh54/Kumar-Vishwesh/main/images/profile.jpg, https://github.com/Maggie-Koh/AnotherTest/blob/main/Picture%20(4).jpeg)
 
 <!-- Add your details -->
 
